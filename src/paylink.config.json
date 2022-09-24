@@ -34,7 +34,7 @@
       "id": "btc-ln",
       "label": "Bitcoin-LN",
       "value": "lnbc1p39a33tpp5fu3vrl64y9mzmkvz6h757y9xw3l9qzs3a67qup8pcw4s776lj2xqdqqcqzzgxqrrssrzjqw8c7yfutqqy3kz8662fxutjvef7q2ujsxtt45csu0k688lkzu3ldkt2mej67459mgqqqqryqqqqthqqpysp5ct52px432ge8769rf4et20k5c9l7gsmr9uc4epp70kfrrun9rusq9qypqsqqsan7456sf0rz5g8alle6m58spr3l5jaqxx2a9e9kg4vkec809ky2ttdugnyf8zetxhw560vkf7q8mwq637uehjyp8muhrt47t3jwkgqezjswh",
-      "img": "./images/payments/btc.svg"
+      "img": "paylink/public/images/payments/LN-logo.png"
     },
     {
       "id": "busd",
