@@ -2,25 +2,25 @@
   "theme": "minimalist-dark-theme",
 
   "properties": {
-    "name": "Daniel Castillo",
-    "description": "Frontend web developer and tireless creator",
-    "alt": "Photo of Daniel Castillo",
-    "hero": "./images/daniel-castillo.png"
+    "name": "Miguel González 💡",
+    "description": "Contabilidad, Finanzas y un poco más",
+    "alt": "Photo of Miguel González",
+    "hero": "./images/Perfil para redes.jpg"
   },
 
   "Social": [
-    { "label": "Email", "value": "bx-envelope", "link": "mailto:dlcastillo3015@gmail.com" },
-    { "label": "Link", "value": "bx-link", "link": "https://danielcastillop.netlify.app" },
-    { "label": "GitHub", "value": "bxl-github", "link": "https://github.com/dlcastillop" },
-    { "label": "Twitter", "value": "bxl-twitter", "link": "https://twitter.com/dlcastillop" },
-    { "label": "LinkedIn", "value": "bxl-linkedin", "link": "https://linkedin.com/in/dlcastillop" },
-    { "label": "Instagram", "value": "bxl-instagram", "link": "https://instagram.com/dlcastillop" },
+    { "label": "Email", "value": "bx-envelope", "link": "mg213793@gmail.com" },
+    { "label": "Link", "value": "bx-link", "link": "" },
+    { "label": "GitHub", "value": "bxl-github", "link": "" },
+    { "label": "Twitter", "value": "bxl-twitter", "link": "https://twitter.com/mgonzalezms" },
+    { "label": "LinkedIn", "value": "bxl-linkedin", "link": "https://www.linkedin.com/in/miguel-h-gonz%C3%A1lez-morales-6a1210217/" },
+    { "label": "Instagram", "value": "bxl-instagram", "link": "" },
     { "label": "Discord", "value": "bxl-discord", "link": "" },
     { "label": "Facebook", "value": "bxl-facebook", "link": "" },
     { "label": "Medium", "value": "bxl-medium", "link": "" },
     { "label": "Pinterest", "value": "bxl-pinterest", "link": "" },
     { "label": "Snapchat", "value": "bxl-snapchat", "link": "" },
-    { "label": "Telegram", "value": "bxl-telegram", "link": "" },
+    { "label": "Telegram", "value": "bxl-telegram", "link": "https://t.me/mgonzalezms" },
     { "label": "TikTok", "value": "bxl-tiktok", "link": "" },
     { "label": "Twitch", "value": "bxl-twitch", "link": "" },
     { "label": "Vimeo", "value": "bxl-vimeo", "link": "" },
@@ -31,9 +31,9 @@
 
   "Payments": [
     {
-      "id": "btc",
-      "label": "Bitcoin",
-      "value": "bc1qejahgjmqnmyrw7jvn0d7evfdq6ssjl3wq7hfle",
+      "id": "btc-ln",
+      "label": "Bitcoin-LN",
+      "value": "lnbc1p39a33tpp5fu3vrl64y9mzmkvz6h757y9xw3l9qzs3a67qup8pcw4s776lj2xqdqqcqzzgxqrrssrzjqw8c7yfutqqy3kz8662fxutjvef7q2ujsxtt45csu0k688lkzu3ldkt2mej67459mgqqqqryqqqqthqqpysp5ct52px432ge8769rf4et20k5c9l7gsmr9uc4epp70kfrrun9rusq9qypqsqqsan7456sf0rz5g8alle6m58spr3l5jaqxx2a9e9kg4vkec809ky2ttdugnyf8zetxhw560vkf7q8mwq637uehjyp8muhrt47t3jwkgqezjswh",
       "img": "./images/payments/btc.svg"
     },
     {
@@ -43,9 +43,9 @@
       "img": "./images/payments/busd.svg"
     },
     {
-      "id": "matic",
-      "label": "Matic",
-      "value": "",
+      "id": "polygon",
+      "label": "Polygon",
+      "value": "0x91645779Cd5Bd572518aCFbc11F88E61976BFFA5",
       "img": "./images/payments/matic.svg"
     },
     {
@@ -57,7 +57,7 @@
     {
       "id": "eth",
       "label": "Ethereum",
-      "value": "0x59C864f658caD68A19a97499755080c056079988",
+      "value": "",
       "img": "./images/payments/eth.svg"
     },
     {
@@ -74,14 +74,14 @@
     },
     {
       "id": "usdt",
-      "label": "USDT",
-      "value": "",
+      "label": "USDT-TRC20",
+      "value": "TQZQ4ZFAcKmpMf9B5JTVBSyvs133eiA3ri",
       "img": "./images/payments/usdt.svg"
     },
     {
       "id": "qvapay",
       "label": "QvaPay",
-      "value": "https://qvapay.com/payme/dlcastillop",
+      "value": "https://qvapay.com/payme/miguelgonzalezms",
       "img": "./images/payments/qvapay.svg"
     },
     {
@@ -99,7 +99,7 @@
     {
       "id": "trx",
       "label": "Tron",
-      "value": "",
+      "value": "TT9QZ9juKA3d1sabriAqBXaykTLHkcAHjh",
       "img": "./images/payments/trx.svg"
     },
     {
@@ -109,10 +109,16 @@
       "img": "./images/payments/xrp.svg"
     },
     {
-      "id": "card",
-      "label": "Card",
-      "value": "",
-      "img": "./images/payments/card.svg"
+      "id": "tarjeta banco1",
+      "label": "Transferencia CUP",
+      "value": "9205 9598 7251 8932",
+      "img": "paylink/public/images/payments/green card.png"
+    }
+      {
+      "id": "tarjeta banco2",
+      "label": "Transferencia USD",
+      "value": "9225 9598 7240 8718",
+      "img": "paylink/public/images/payments/blue card.png"
     }
   ]
 }
