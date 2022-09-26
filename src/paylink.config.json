@@ -31,15 +31,33 @@
 
   "Payments": [
     {
+      "id": "btc",
+      "label": "Bitcoin",
+      "value": "bc1q344dn6jj68cspkdknmepqsf6xlg5j2g4pgklmx",
+      "img": "./images/payments/btc.svg"
+    },
+    {
       "id": "btc-ln",
       "label": "Bitcoin-LN",
       "value": "lnbc1p39a33tpp5fu3vrl64y9mzmkvz6h757y9xw3l9qzs3a67qup8pcw4s776lj2xqdqqcqzzgxqrrssrzjqw8c7yfutqqy3kz8662fxutjvef7q2ujsxtt45csu0k688lkzu3ldkt2mej67459mgqqqqryqqqqthqqpysp5ct52px432ge8769rf4et20k5c9l7gsmr9uc4epp70kfrrun9rusq9qypqsqqsan7456sf0rz5g8alle6m58spr3l5jaqxx2a9e9kg4vkec809ky2ttdugnyf8zetxhw560vkf7q8mwq637uehjyp8muhrt47t3jwkgqezjswh",
-      "img": "paylink/public/images/payments/LN-logo.png"
+      "img": "./images/payments/LN-logo.png"
     },
     {
+      "id": "usdt",
+      "label": "USDT-TRC20",
+      "value": "TQZQ4ZFAcKmpMf9B5JTVBSyvs133eiA3ri",
+      "img": "./images/payments/usdt.svg"
+    },
+    {
+      "id": "hive",
+      "label": "HIVE",
+      "value": "miguelgonzalezms",
+      "img": "paylink/public/images/payments/hive-blockchain-hive-logo.svg"
+    }
+    {
       "id": "busd",
-      "label": "BinanceUSD",
-      "value": "",
+      "label": "BUSD",
+      "value": "0x91645779Cd5Bd572518aCFbc11F88E61976BFFA5",
       "img": "./images/payments/busd.svg"
     },
     {
@@ -71,12 +89,6 @@
       "label": "Paypal",
       "value": "",
       "img": "./images/payments/paypal.svg"
-    },
-    {
-      "id": "usdt",
-      "label": "USDT-TRC20",
-      "value": "TQZQ4ZFAcKmpMf9B5JTVBSyvs133eiA3ri",
-      "img": "./images/payments/usdt.svg"
     },
     {
       "id": "qvapay",
@@ -112,19 +124,13 @@
       "id": "tarjeta banco1",
       "label": "Transferencia CUP",
       "value": "9205 9598 7251 8932",
-      "img": "paylink/public/images/payments/green card.png"
+      "img": "./images/payments/green c.png"
     },
-      {
+    {
       "id": "tarjeta banco2",
       "label": "Transferencia USD",
       "value": "9225 9598 7240 8718",
-      "img": "paylink/public/images/payments/blue card.png"
-    },
-   {
-      "id": "hive",
-      "label": "HIVE",
-      "value": "miguelgonzalezms",
-      "img": "paylink/public/images/payments/hive-blockchain-hive-logo.svg"
+      "img": "./images/payments/yellow c.png"
     }
   ]
 }
