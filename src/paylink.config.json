@@ -39,7 +39,7 @@
     {
       "id": "btc-ln",
       "label": "Bitcoin-LN",
-      "value": "lnbc1p39a33tpp5fu3vrl64y9mzmkvz6h757y9xw3l9qzs3a67qup8pcw4s776lj2xqdqqcqzzgxqrrssrzjqw8c7yfutqqy3kz8662fxutjvef7q2ujsxtt45csu0k688lkzu3ldkt2mej67459mgqqqqryqqqqthqqpysp5ct52px432ge8769rf4et20k5c9l7gsmr9uc4epp70kfrrun9rusq9qypqsqqsan7456sf0rz5g8alle6m58spr3l5jaqxx2a9e9kg4vkec809ky2ttdugnyf8zetxhw560vkf7q8mwq637uehjyp8muhrt47t3jwkgqezjswh",
+      "value": "lnbc1p3nyhdxpp5mgzhwfd59vqzgnmfevnc4xd04r3g9cl2xmkyfueeks0pazt0w0msdqqcqzzgxqyz5vqrzjqwnvuc0u4txn35cafc7w94gxvq5p3cu9dd95f7hlrh0fvs46wpvhdz02c6v8yk8aqvqqqqryqqqqthqqpyrzjqw8c7yfutqqy3kz8662fxutjvef7q2ujsxtt45csu0k688lkzu3ldz02c6v8yk8aqvqqqqryqqqqthqqpysp56vmzkg5790vpm5fuukapf8zqvgp2zut5jes5mjmu382k7zeh74xq9qypqsq0gg6hrhywsxuvgfz85eq0mfesk870e8n7xhprhh4n3ec0jeqcnfh0et5sykq6dncyzzs2qn2ph78d0upfszue6fxnut5wu2y8p48sagpfj66ga",
       "img": "./images/payments/LN-logo.png"
     },
     {
@@ -47,6 +47,12 @@
       "label": "USDT-TRC20",
       "value": "TQZQ4ZFAcKmpMf9B5JTVBSyvs133eiA3ri",
       "img": "./images/payments/usdt.svg"
+    },
+    {
+      "id": "qvapay",
+      "label": "QvaPay",
+      "value": "https://qvapay.com/payme/miguelgonzalezms",
+      "img": "./images/payments/qvapay.svg"
     },
     {
       "id": "hive",
@@ -89,12 +95,6 @@
       "label": "Paypal",
       "value": "",
       "img": "./images/payments/paypal.svg"
-    },
-    {
-      "id": "qvapay",
-      "label": "QvaPay",
-      "value": "https://qvapay.com/payme/miguelgonzalezms",
-      "img": "./images/payments/qvapay.svg"
     },
     {
       "id": "sol",
