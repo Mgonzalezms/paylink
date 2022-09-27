@@ -52,7 +52,7 @@
       "id": "hive",
       "label": "HIVE",
       "value": "miguelgonzalezms",
-      "img": "paylink/public/images/payments/hive.png"
+      "img": "./images/payments/hive.png"
     },
     {
       "id": "busd",
