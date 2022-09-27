@@ -52,7 +52,7 @@
       "id": "hive",
       "label": "HIVE",
       "value": "miguelgonzalezms",
-      "img": "paylink/public/images/payments/hive-blockchain-hive-logo.svg"
+      "img": "paylink/public/images/payments/hive-blockchain-hive-logo.png"
     },
     {
       "id": "busd",
@@ -112,7 +112,7 @@
       "id": "trx",
       "label": "Tron",
       "value": "TT9QZ9juKA3d1sabriAqBXaykTLHkcAHjh",
-      "img": "./images/payments/trx.svg"
+      "img": "./images/payments/tron-trx-logo.png"
     },
     {
       "id": "xrp",
@@ -124,13 +124,13 @@
       "id": "tarjeta banco1",
       "label": "Transferencia CUP",
       "value": "9205 9598 7251 8932",
-      "img": "./images/payments/green c.png"
+      "img": "./images/payments/green card.png"
     },
     {
       "id": "tarjeta banco2",
       "label": "Transferencia USD",
       "value": "9225 9598 7240 8718",
-      "img": "./images/payments/yellow c.png"
+      "img": "./images/payments/red card.png"
     }
   ]
 }
