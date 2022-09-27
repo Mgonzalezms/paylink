@@ -52,7 +52,7 @@
       "id": "hive",
       "label": "HIVE",
       "value": "miguelgonzalezms",
-      "img": "paylink/public/images/payments/hive-blockchain-hive-logo.png"
+      "img": "paylink/public/images/payments/hive.png"
     },
     {
       "id": "busd",
@@ -124,13 +124,13 @@
       "id": "tarjeta banco1",
       "label": "Transferencia CUP",
       "value": "9205 9598 7251 8932",
-      "img": "./images/payments/green card.png"
+      "img": "./images/payments/blue card.png"
     },
     {
       "id": "tarjeta banco2",
       "label": "Transferencia USD",
       "value": "9225 9598 7240 8718",
-      "img": "./images/payments/red card.png"
+      "img": "./images/payments/purple card.png"
     }
   ]
 }
